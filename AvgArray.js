@@ -1,6 +1,6 @@
 // avgArray.js
 
-import { sumArray } from './sumArray'; // Importing sumArray function
+import { sumArray } from './sumArray.js'; // Importing sumArray function
 
 // Function to calculate the average of an array of numbers
 export function avgArray(array) {
